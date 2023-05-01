@@ -1,0 +1,23 @@
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.posted_films {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+.posted_films img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.post_film_footer,
+.favs_footer{
+  margin-top: 3%;
+}

@@ -1,0 +1,29 @@
+a {
+    color: #0C8BD9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+input{
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 0.25rem;
+}
+
+input:hover {
+    background-color: #c82333;
+}
+
+.profile_edit_footer, .admin_edit_footer{
+    margin-top: 13%;
+}
